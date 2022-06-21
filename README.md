@@ -7,7 +7,7 @@
 
 - 📫 Email me at **alannacalendar@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alannacc&" alt="alannacc" /></p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alannacc&show_icons=true&locale=en&layout=compact" alt="alannacc" /></p>
 
