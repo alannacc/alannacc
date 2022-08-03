@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **mongoDB and React.**
 
-- 👨‍💻 Accepting new clients. Check out my <a href="https://alannac.netlify.app/">portfolio</a>!
+- 👨‍💻 Check out my <a href="https://alannac.netlify.app/">portfolio</a>! 
 
 - 📫 Email me at **alannacalendar@gmail.com**
 
